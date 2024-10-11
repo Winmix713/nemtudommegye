@@ -1,0 +1,11 @@
+következő forduló párosításai
+merkozesek = [
+  ('Brentford', 'Wolverhampton'),            # Virtuális Premier Liga 10.11. 15:34
+    ('West Ham', 'Vörös Ördögök'),             # Virtuális Premier Liga 10.11. 15:34
+    ('Liverpool', 'Crystal Palace'),           # Virtuális Premier Liga 10.11. 15:34
+    ('Manchester Kék', 'Nottingham'),          # Virtuális Premier Liga 10.11. 15:34
+    ('Newcastle', 'Tottenham'),                # Virtuális Premier Liga 10.11. 15:34
+    ('Brighton', 'Aston Oroszlán'),            # Virtuális Premier Liga 10.11. 15:34
+    ('Everton', 'London Ágyúk'),               # Virtuális Premier Liga 10.11. 15:34
+    ('Chelsea', 'Fulham')                      # Virtuális Premier Liga 10.11. 15:34
+]

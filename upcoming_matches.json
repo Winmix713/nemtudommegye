@@ -1,0 +1,58 @@
+[
+    {
+        "match_number": 1,
+        "home_team": "Brentford",
+        "away_team": "Wolverhampton",
+        "home_team_id": 2,
+        "away_team_id": 16
+    },
+    {
+        "match_number": 2,
+        "home_team": "West Ham",
+        "away_team": "Vörös Ördögök",
+        "home_team_id": 15,
+        "away_team_id": 14
+    },
+    {
+        "match_number": 3,
+        "home_team": "Liverpool",
+        "away_team": "Crystal Palace",
+        "home_team_id": 9,
+        "away_team_id": 5
+    },
+    {
+        "match_number": 4,
+        "home_team": "Manchester Kék",
+        "away_team": "Nottingham",
+        "home_team_id": 10,
+        "away_team_id": 12
+    },
+    {
+        "match_number": 5,
+        "home_team": "Newcastle",
+        "away_team": "Tottenham",
+        "home_team_id": 11,
+        "away_team_id": 13
+    },
+    {
+        "match_number": 6,
+        "home_team": "Brighton",
+        "away_team": "Aston Oroszlán",
+        "home_team_id": 3,
+        "away_team_id": 1
+    },
+    {
+        "match_number": 7,
+        "home_team": "Everton",
+        "away_team": "London Ágyúk",
+        "home_team_id": 6,
+        "away_team_id": 8
+    },
+    {
+        "match_number": 8,
+        "home_team": "Chelsea",
+        "away_team": "Fulham",
+        "home_team_id": 4,
+        "away_team_id": 7
+    }
+]

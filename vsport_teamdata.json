@@ -1,0 +1,164 @@
+{
+    "teams": [
+        {
+            "team_name": "Chelsea",
+            "team_id": 4,
+            "win_probability": 48.67,
+            "top_opponents": [
+                {"opponent_name": "Aston Oroszlán", "opponent_id": 1, "matches": 109},
+                {"opponent_name": "Crystal Palace", "opponent_id": 5, "matches": 108},
+                {"opponent_name": "Nottingham", "opponent_id": 12, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Manchester Kék",
+            "team_id": 10,
+            "win_probability": 53.73,
+            "top_opponents": [
+                {"opponent_name": "Wolverhampton", "opponent_id": 16, "matches": 109},
+                {"opponent_name": "London Ágyúk", "opponent_id": 8, "matches": 108},
+                {"opponent_name": "Everton", "opponent_id": 6, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Wolverhampton",
+            "team_id": 16,
+            "win_probability": 43.62,
+            "top_opponents": [
+                {"opponent_name": "Manchester Kék", "opponent_id": 10, "matches": 109},
+                {"opponent_name": "Aston Oroszlán", "opponent_id": 1, "matches": 108},
+                {"opponent_name": "Crystal Palace", "opponent_id": 5, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "London Ágyúk",
+            "team_id": 8,
+            "win_probability": 55.52,
+            "top_opponents": [
+                {"opponent_name": "Vörös Ördögök", "opponent_id": 14, "matches": 109},
+                {"opponent_name": "Manchester Kék", "opponent_id": 10, "matches": 108},
+                {"opponent_name": "Aston Oroszlán", "opponent_id": 1, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Vörös Ördögök",
+            "team_id": 14,
+            "win_probability": 44.02,
+            "top_opponents": [
+                {"opponent_name": "London Ágyúk", "opponent_id": 8, "matches": 109},
+                {"opponent_name": "Everton", "opponent_id": 6, "matches": 109},
+                {"opponent_name": "Brentford", "opponent_id": 2, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Aston Oroszlán",
+            "team_id": 1,
+            "win_probability": 54.41,
+            "top_opponents": [
+                {"opponent_name": "Chelsea", "opponent_id": 4, "matches": 109},
+                {"opponent_name": "Wolverhampton", "opponent_id": 16, "matches": 108},
+                {"opponent_name": "London Ágyúk", "opponent_id": 8, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Newcastle",
+            "team_id": 11,
+            "win_probability": 51.08,
+            "top_opponents": [
+                {"opponent_name": "Tottenham", "opponent_id": 13, "matches": 109},
+                {"opponent_name": "Brighton", "opponent_id": 3, "matches": 108},
+                {"opponent_name": "Liverpool", "opponent_id": 9, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Tottenham",
+            "team_id": 13,
+            "win_probability": 40.16,
+            "top_opponents": [
+                {"opponent_name": "Newcastle", "opponent_id": 11, "matches": 109},
+                {"opponent_name": "West Ham", "opponent_id": 15, "matches": 108},
+                {"opponent_name": "Brighton", "opponent_id": 3, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "West Ham",
+            "team_id": 15,
+            "win_probability": 46.33,
+            "top_opponents": [
+                {"opponent_name": "Brentford", "opponent_id": 2, "matches": 109},
+                {"opponent_name": "Tottenham", "opponent_id": 13, "matches": 108},
+                {"opponent_name": "Fulham", "opponent_id": 7, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Fulham",
+            "team_id": 7,
+            "win_probability": 38.43,
+            "top_opponents": [
+                {"opponent_name": "Everton", "opponent_id": 6, "matches": 109},
+                {"opponent_name": "Brentford", "opponent_id": 2, "matches": 108},
+                {"opponent_name": "West Ham", "opponent_id": 15, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Brentford",
+            "team_id": 2,
+            "win_probability": 55.71,
+            "top_opponents": [
+                {"opponent_name": "West Ham", "opponent_id": 15, "matches": 109},
+                {"opponent_name": "Fulham", "opponent_id": 7, "matches": 108},
+                {"opponent_name": "Vörös Ördögök", "opponent_id": 14, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Everton",
+            "team_id": 6,
+            "win_probability": 55.49,
+            "top_opponents": [
+                {"opponent_name": "Fulham", "opponent_id": 7, "matches": 109},
+                {"opponent_name": "Vörös Ördögök", "opponent_id": 14, "matches": 109},
+                {"opponent_name": "Manchester Kék", "opponent_id": 10, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Liverpool",
+            "team_id": 9,
+            "win_probability": 55.58,
+            "top_opponents": [
+                {"opponent_name": "Crystal Palace", "opponent_id": 5, "matches": 109},
+                {"opponent_name": "Nottingham", "opponent_id": 12, "matches": 108},
+                {"opponent_name": "Newcastle", "opponent_id": 11, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Brighton",
+            "team_id": 3,
+            "win_probability": 47.16,
+            "top_opponents": [
+                {"opponent_name": "Nottingham", "opponent_id": 12, "matches": 108},
+                {"opponent_name": "Newcastle", "opponent_id": 11, "matches": 108},
+                {"opponent_name": "Tottenham", "opponent_id": 13, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Crystal Palace",
+            "team_id": 5,
+            "win_probability": 50.09,
+            "top_opponents": [
+                {"opponent_name": "Liverpool", "opponent_id": 9, "matches": 109},
+                {"opponent_name": "Chelsea", "opponent_id": 4, "matches": 108},
+                {"opponent_name": "Wolverhampton", "opponent_id": 16, "matches": 108}
+            ]
+        },
+        {
+            "team_name": "Nottingham",
+            "team_id": 12,
+            "win_probability": 46.91,
+            "top_opponents": [
+                {"opponent_name": "Brighton", "opponent_id": 3, "matches": 108},
+                {"opponent_name": "Liverpool", "opponent_id": 9, "matches": 108},
+                {"opponent_name": "Chelsea", "opponent_id": 4, "matches": 108}
+            ]
+        }
+    ]
+}
